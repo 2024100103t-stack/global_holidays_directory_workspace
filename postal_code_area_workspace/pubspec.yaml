@@ -1,0 +1,9 @@
+name: postal_code_area_workspace
+
+environment:
+  sdk: ^3.8.1
+
+workspace:
+  - terminal_colors
+  - postal_code_api
+  - postal_code_cli

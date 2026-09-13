@@ -1,0 +1,24 @@
+name: postal_code_cli
+
+description: Command-line interface for the Postal Code Area Resolver.
+
+version: 1.0.0
+
+publish_to: none
+
+resolution: workspace
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  terminal_colors:
+    path: ../terminal_colors
+  postal_code_api:
+    path: ../postal_code_api
+  http: ^1.2.0
+  logging: ^1.2.0
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^6.0.0
