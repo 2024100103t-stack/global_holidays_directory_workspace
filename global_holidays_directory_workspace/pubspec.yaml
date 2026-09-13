@@ -1,0 +1,11 @@
+name: global_holidays_directory_workspace
+
+publish_to: none
+
+environment:
+  sdk: ^3.12.2
+
+workspace:
+  - global_holidays_api
+  - global_holidays_cli
+  - terminal_colors

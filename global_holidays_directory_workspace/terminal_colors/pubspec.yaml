@@ -1,0 +1,10 @@
+name: terminal_colors
+
+description: ANSI terminal color formatting library.
+
+version: 1.0.0
+
+resolution: workspace
+
+environment:
+  sdk: '^3.8.1'
