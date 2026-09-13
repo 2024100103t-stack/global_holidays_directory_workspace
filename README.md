@@ -335,7 +335,7 @@ The project provides practical experience in API integration, JSON processing, o
 
 ## Author
 
-**Maribel Alanib**
+**Alanib, Maribel S.**
 
 ## Academic Project
 
