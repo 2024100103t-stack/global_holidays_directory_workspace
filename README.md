@@ -27,9 +27,9 @@ Global Holidays Directory
 Type "help" to see available commands.
 Type "exit" to quit.
 
-[global_holidays] > query US
+[global_holidays] > query PH
 --- GLOBAL HOLIDAYS REPORT ---
-Country: US
+Country: PH
 2026-01-01 - New Year's Day
 ...
 -------------------------------
